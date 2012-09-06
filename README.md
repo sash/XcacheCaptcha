@@ -40,4 +40,5 @@ if ($_POST['response'] && $_POST['challenge']){
 }
 ```
 
-_An example can be found in index.php_
+_An example can be found in [index.php][link]_
+[link]:https://github.com/sash/XcacheCaptcha/blob/master/index.php
