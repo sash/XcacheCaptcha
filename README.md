@@ -7,7 +7,7 @@ This php class will enable you to include [CAPTCHA](http://en.wikipedia.org/wiki
 ```php
 $captcha = XCacheCaptcha::create();
 echo '<input type="hidden" name="challenge" value="'.$captcha.'"/>';
-echo '<img src="?image='.$captcha.'/>';
+echo '<img src="?image='.$captcha.'"/>';
 echo 'Verification code: <input type="text" name="response"/>';
 ```
 
