@@ -1,7 +1,7 @@
 XcacheCaptcha - php captcha checker with xcache backend
 =======================================================
 
-This php class will enable you to include CAPTCHA (http://en.wikipedia.org/wiki/CAPTCHA) bot checks in your forms. The integration is just a few lines of code
+This php class will enable you to include [CAPTCHA](http://en.wikipedia.org/wiki/CAPTCHA) bot checks in your forms. The integration is just a few lines of code
 
 ## Integrate the captcha image in your code
 ```php
